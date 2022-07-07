@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container-items{
+    height:180px;
+    width:127px;
+    display:flex;
+    justify-content:space-between;
+    margin-left: 10px;
+    border:1px solid green;
+  
+}
+
+img{
+    visibility: hidden;
+}
+
+#first-section{
+    display:flex;
+    margin-top: 10px;
+}
+
+#second-section {
+    display: flex;
+    margin-top:10px;
+}
+
+#third-section {
+    display: flex;
+    margin-top:10px;
+}
+
+/*.banana{
+    border:5px solid red
+} */
